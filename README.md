@@ -1,7 +1,7 @@
-# Fast React Pizza Co. 🍕🔥✨
+# Fast React Pizza Co. 🍕✨
 
 ## Description 🍽️📜🎨
-A simple React.js app that displays a pizza menu with images, ingredients, and prices. 🍕🥗🍅
+A simple React.js app that displays a pizza menu with images, ingredients, and prices. 🍕🍅
 
 ## Features ⚡🎯🚀
 - Dynamic menu with availability status.
@@ -11,11 +11,11 @@ A simple React.js app that displays a pizza menu with images, ingredients, and p
 ## Technologies 🖥️📌🔧
 - React.js, JavaScript (ES6+), CSS
 
-## Future Enhancements 🚀✨💡
+## Future Enhancements ✨💡
 - Interactive ordering.
 - Shopping cart.
-- UI improvements. 🎨🛍️💻
+- UI improvements. 🎨💻
 
 ---
-Built with ❤️ using React.js 🎉🍕🔥
+Built with ❤ using React.js 🎉🔥
 
